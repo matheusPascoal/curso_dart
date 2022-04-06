@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:math';
 
-// Map<String, dynamic> cadastro = {};
+// Map<String, dynamic> cadastro = [];
 // main() {
 //   bool condicao = true;
 
