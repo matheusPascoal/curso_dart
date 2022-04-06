@@ -30,11 +30,3 @@ subitrair(int valor, int valor2) {
 palavras(String text, String text2) {
   return '$text  $text2';
 }
-  
-// criar uma funcção nela passar 2numeros e fazer operaçao matematica com les
-// e usar operador em string (String) e faça todas operacoes matematicas atraves do switCase
-
-
-
-
-
